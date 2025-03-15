@@ -1,4 +1,6 @@
-# prayer web appliucation 
+# prayer web application 
 
 
-display praytime choose between (Jaddah, Makkaa and Riadh) 
+display praytime according city 
+
+choose between (Jaddah, Al Madina Almonawara and Riyadh) 
